@@ -1,0 +1,17 @@
+body {
+    background-color: #252423;
+}
+
+@font-face {
+    font-family: 'Iosevka';
+    src:url('fonts/Iosevka.ttf');
+}
+
+h1, h2, h3, h4, p {
+    color: #d4be98;
+}
+
+h1 {
+    /* font-family: Iosevka; */
+    text-align: center;
+}
